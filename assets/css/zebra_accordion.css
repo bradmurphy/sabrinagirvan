@@ -1,0 +1,4 @@
+.Zebra_Accordion dd { display: none; }
+.Zebra_Accordion dt { cursor: pointer; transition: all .2s ease-in-out; -webkit-transition: all .2s ease-in-out; }
+
+dl.Zebra_Accordion dt.Zebra_Accordion_Expanded { background: #48a65b; }
